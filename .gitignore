@@ -2,7 +2,5 @@ Resources
 Flight/.vs
 Flight/Flight/bin
 Flight/Flight/obj
-# Domain/bin
-# Domain/obj
-# Web/bin
-# Web/obj
+Flight/Domain.Tests/bin
+Flight/Domain.Tests/obj
