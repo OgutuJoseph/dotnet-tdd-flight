@@ -11,6 +11,8 @@
 
 		public void Book(string passengerEmail, int numberOfSeats)
 		{
+			// ** Should prevent overbooking of flight
+			// ** Should remember the booking
 			RemainingNumberOfSeats -= numberOfSeats;
 		}
 	}
