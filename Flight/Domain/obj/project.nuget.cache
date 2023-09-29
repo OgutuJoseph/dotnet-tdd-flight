@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DIwmf9h/4zpHRPTct2o+wAGcoLcRw77UaBLjtatlq9/+0sqMlCFD2qMJtTzrJ+i8Rs1VGtWUs7Sk+OlqWrGKIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AB030WP\\OneDrive - Absa\\OgutuJoseph\\Projects\\C#\\dotnet-tdd-flight\\Flight\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AB030WP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\AB030WP\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\AB030WP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
