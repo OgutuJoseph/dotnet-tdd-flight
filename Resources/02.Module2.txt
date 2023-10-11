@@ -1,0 +1,12 @@
+Module 2 - Setting up flight project
+
+• Creating project
+    -> Visual Studio >> Create Project
+    -> Template :: xUnit [C#]
+    -> Select Project Dir >> Project Name [Flight]
+    ""Saw on VLC"" :: Leave 'Place solution and project in same directory' unchecked
+    -> Framework :: .NET 6.0
+
+• Adding Fluent Assertions Nuget Package 
+    --> From Nuget Packet Manager
+        -> FluentAssertions [version 7.0.0] >> inside 'Flight' project
