@@ -1,4 +1,0 @@
-• Chapter Two
-    - Why should you write Tests First?
-    - Test Preconditions
-    - Red-Green-Refactor

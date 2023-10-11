@@ -1,8 +1,0 @@
-Module 4 - Red-Green factor
-
-• Creating a project for the test project  
-    -> Right click solution >> Add Project
-    -> Template ::  ClassLibrary
-    -> Project Name :: Domain
-    -> Framework :: .NET 6.0
-
