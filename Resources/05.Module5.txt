@@ -1,0 +1,18 @@
+Module 5 - Given-When-Then Pattern and Avoiding Overbooking Scenario Discovery
+
+• Steps::
+    -> Given
+        - New Flight
+          [Seat Capacity:3]
+
+    -> When
+        - Book
+          [Number of Seats: 1]
+
+    ...
+        - Flight
+
+    -> Then
+        - Flight
+          [Remaining Number of Seats: 2]
+
